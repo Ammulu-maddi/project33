@@ -31,13 +31,11 @@ This is a web based application developed for health related  based website in i
 ### About Us -
 
 
+![sc2](https://user-images.githubusercontent.com/117430543/208147237-4ac444ac-2eaf-4607-87ee-1198c9966f6c.JPG)
 
 
-![sc7](https://user-images.githubusercontent.com/117430543/208094428-703a7d36-0702-4192-953f-72ecc47f0903.JPG)
-![sc8](https://user-images.githubusercontent.com/117430543/208094432-562eafcf-ee0f-460d-976f-e297fe6b4b99.JPG)
+## -
 
-
-### Privacy policy -
 
 
 
