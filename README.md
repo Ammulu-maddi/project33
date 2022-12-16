@@ -9,7 +9,7 @@ This is a web based application developed for health related  based website in i
 **Project Link** - https://ammulu-maddi.github.io/project33/
 **Project Link** -https://youtu.be/ErfVxaqaTUI
 
-##Azure technologies used for Project
+##Azure technologies used for Project 😃
 -Static web apps.
 -Health bot.
 
@@ -34,14 +34,25 @@ This is a web based application developed for health related  based website in i
 ![sc2](https://user-images.githubusercontent.com/117430543/208147237-4ac444ac-2eaf-4607-87ee-1198c9966f6c.JPG)
 
 
-## -
+## Services -
+
+
+![sc3](https://user-images.githubusercontent.com/117430543/208147564-bc0cedc0-d0ae-4875-9927-92cd915ce936.JPG)
+
+
+###Contact -
+
+
+![sc4](https://user-images.githubusercontent.com/117430543/208147767-7cf258c8-d6ef-487c-9973-4c4b5f8f3579.JPG)
+
+
+###Healthbot -
+
+
+![sc5](https://user-images.githubusercontent.com/117430543/208147946-952d5b26-ebec-4908-bc2f-cc70cf03fcd7.JPG)
 
 
 
-
-![s9](https://user-images.githubusercontent.com/117430543/208094570-612b15eb-efb9-4821-a198-4fc3f7565cbc.JPG)
-![sc6](https://user-images.githubusercontent.com/117430543/208094609-e8fd2a34-7888-478a-97f6-756e366855d4.JPG)
-![sc9](https://user-images.githubusercontent.com/117430543/208094638-49c74e73-d0db-46f7-bb9a-a31a99752d28.JPG)
 
 ## Tech Stack 💻
 
