@@ -10,12 +10,12 @@ This is a web based application developed for health related  based website in i
 **Project demo video Link** - https://youtu.be/ErfVxaqaTUI
 
 
-### Azure technologies used for Project 😃
+### Azure technologies used for Project. 😃
 - Static web apps.
 - Health bot.
 
 
-## Features and Functionalities 😃
+## Features and Functionalities. 😃
 
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
@@ -24,7 +24,7 @@ This is a web based application developed for health related  based website in i
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-## Screenshots
+## Screenshots.
 
 ## Home -
 
