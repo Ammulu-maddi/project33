@@ -11,7 +11,7 @@
 **Project demo video Link** - https://youtu.be/ErfVxaqaTUI
 
 
-### Azure technologies used for Project. 😃
+### Azure technology services used for Project. 😃
 - Static web apps.
 - Health bot.
 
