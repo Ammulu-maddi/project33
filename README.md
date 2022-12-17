@@ -10,7 +10,7 @@ This is a web based application developed for health related  based website in i
 **Project Link** -https://youtu.be/ErfVxaqaTUI
 
 
-###Azure technologies used for Project 😃
+### Azure technologies used for Project 😃
 -Static web apps.
 -Health bot.
 
@@ -39,17 +39,15 @@ This is a web based application developed for health related  based website in i
 
 ![sc3](https://user-images.githubusercontent.com/117430543/208147564-bc0cedc0-d0ae-4875-9927-92cd915ce936.JPG)
 
-###Contact -
+## Contact -
 
 
 ![sc4](https://user-images.githubusercontent.com/117430543/208147767-7cf258c8-d6ef-487c-9973-4c4b5f8f3579.JPG)
 
-###Healthbot -
+### Healthbot -
 
 
 ![sc5](https://user-images.githubusercontent.com/117430543/208147946-952d5b26-ebec-4908-bc2f-cc70cf03fcd7.JPG)
-
-
 
 
 ## Tech Stack 💻
