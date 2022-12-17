@@ -7,6 +7,7 @@
 
 
 **Project Link** - https://ammulu-maddi.github.io/project33/
+
 **Project demo video Link** - https://youtu.be/ErfVxaqaTUI
 
 
@@ -22,7 +23,7 @@
 - Have an aesthetically pleasing visual design and architecture.
 - Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
 - User can know about health information through this website.
-- Included the feedback Survey form to increase the scope of improvement 
+- Included the feedback Survey form to increase the scope of improvement. 
 
 ## Screenshots.
 
