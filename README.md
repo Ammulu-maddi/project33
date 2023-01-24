@@ -8,7 +8,7 @@
 
 **Project Link** - https://ammulu-maddi.github.io/project33/
 
-**Project demo video Link** - https://youtu.be/ErfVxaqaTUI
+**Project demo video Link** - https://youtu.be/pQ1T8AAd5yM
 
 
 ### Azure technology services used for Project. 😃
@@ -28,7 +28,8 @@
 ## Home -
 
 
-![sc1](https://user-images.githubusercontent.com/117430543/208145635-8cf1cb93-cae1-48e6-a09b-2932981faadf.JPG)
+
+![sc 1](https://user-images.githubusercontent.com/117430543/214317386-1c90e684-8092-4ac2-98ba-cb388513faa2.JPG)
 
 ### About Us -
 
