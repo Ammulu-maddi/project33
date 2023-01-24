@@ -40,7 +40,8 @@
 ## Services -
 
 
-![sc3](https://user-images.githubusercontent.com/117430543/208147564-bc0cedc0-d0ae-4875-9927-92cd915ce936.JPG)
+
+![sc 6](https://user-images.githubusercontent.com/117430543/214318095-6e7ce049-915d-449b-a4da-56cb042b9e04.JPG)
 
 ## Contact -
 
