@@ -52,7 +52,8 @@
 ### Healthbot -
 
 
-![sc5](https://user-images.githubusercontent.com/117430543/208147946-952d5b26-ebec-4908-bc2f-cc70cf03fcd7.JPG)
+
+![sc 12](https://user-images.githubusercontent.com/117430543/214318635-d3ff5dcb-a1d8-4202-9ae2-d32df39c788c.JPG)
 
 ## Tech Stack 💻
 
