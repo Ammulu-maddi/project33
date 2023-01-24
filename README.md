@@ -34,7 +34,8 @@
 ### About Us -
 
 
-![sc2](https://user-images.githubusercontent.com/117430543/208147237-4ac444ac-2eaf-4607-87ee-1198c9966f6c.JPG)
+
+![sc 2](https://user-images.githubusercontent.com/117430543/214317805-c4c6c1ea-da67-4858-810f-5e1f768a7b1d.JPG)
 
 ## Services -
 
